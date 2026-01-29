@@ -134,4 +134,4 @@ Copy `.env.example` to `.env` and configure:
 
 This repo is intended to run independently as a backend service and can be deployed behind a reverse proxy (e.g., Traefik).
 
-Frontend repo: **omniretail-app**
+Frontend repo: [**omniretail-app**](https://github.com/mmihaylov94/omniretail-app)
