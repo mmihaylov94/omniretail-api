@@ -36,7 +36,9 @@ class Cors extends BaseConfig
          */
         'allowedOrigins' => [
             'https://omniretail.localhost.io',
-            'https://omniretail.mihaylov.io'
+            'https://omniretail.mihaylov.io',
+            'http://localhost:5173',
+            'http://localhost:3000',
         ],
 
         /**
